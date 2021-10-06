@@ -1,2 +1,5 @@
 # Usuario_Privilegios_Foro
 Taller de diseño de sistema primer trabajo, donde se lograra desarrollar una aplicación Web con Privilegios de Usuarios 
+Se desarrollara un  foro con distintas noticias de actualidad , creacion de comunidad , subir imagenes .
+Esta aplicacion contara con 3 roles el administrador, el colaborador y el usuario  
+Se manejara los tipos de menu con opciones y sub opciones dependiendo las opciones de privilegios de cada rol .
